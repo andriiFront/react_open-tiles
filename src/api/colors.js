@@ -1,0 +1,18 @@
+export const colors = [
+  'brown',
+  'brown',
+  'cadetblue',
+  'cadetblue',
+  'chartreuse',
+  'chartreuse',
+  'chocolate',
+  'chocolate',
+  'darkcyan',
+  'darkcyan',
+  'darkgoldenrod',
+  'darkgoldenrod',
+  'darkgrey',
+  'darkgrey',
+  'fuchsia',
+  'fuchsia',
+];
